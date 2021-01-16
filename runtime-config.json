@@ -1,0 +1,9 @@
+{
+    "type": "envoy_proxy",
+    "abiVersions": [],
+    "config": {
+        "rootIds": [
+            "proxy_wasm_demo"
+        ]
+    }
+}
